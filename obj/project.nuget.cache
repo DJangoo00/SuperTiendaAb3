@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ITFm4FivGpzFBWOEoTSNiDo916fC3lDEnJB1Ln25QmfDTp72rKUMu5Q/K+wIOUo2lmrJ+8YrKw32/nYm/5MbXg==",
+  "success": true,
+  "projectFilePath": "/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/LinQTiendaAb3.csproj",
+  "expectedPackageFiles": [
+    "/home/arteN01-052/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

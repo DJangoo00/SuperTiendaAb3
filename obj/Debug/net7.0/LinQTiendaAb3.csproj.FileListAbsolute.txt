@@ -1,0 +1,17 @@
+/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/obj/Debug/net7.0/LinQTiendaAb3.csproj.AssemblyReference.cache
+/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/obj/Debug/net7.0/LinQTiendaAb3.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/obj/Debug/net7.0/LinQTiendaAb3.AssemblyInfoInputs.cache
+/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/obj/Debug/net7.0/LinQTiendaAb3.AssemblyInfo.cs
+/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/obj/Debug/net7.0/LinQTiendaAb3.csproj.CoreCompileInputs.cache
+/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/bin/Debug/net7.0/LinQTiendaAb3
+/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/bin/Debug/net7.0/LinQTiendaAb3.deps.json
+/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/bin/Debug/net7.0/LinQTiendaAb3.runtimeconfig.json
+/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/bin/Debug/net7.0/LinQTiendaAb3.dll
+/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/bin/Debug/net7.0/LinQTiendaAb3.pdb
+/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/obj/Debug/net7.0/LinQTiendaAb3.csproj.CopyComplete
+/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/obj/Debug/net7.0/LinQTiendaAb3.dll
+/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/obj/Debug/net7.0/refint/LinQTiendaAb3.dll
+/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/obj/Debug/net7.0/LinQTiendaAb3.pdb
+/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/obj/Debug/net7.0/LinQTiendaAb3.genruntimeconfig.cache
+/home/arteN01-052/Downloads/DG/Ciclo3/clasesCS/LinQ/LinQTiendaAb3/obj/Debug/net7.0/ref/LinQTiendaAb3.dll
